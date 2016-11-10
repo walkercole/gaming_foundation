@@ -1,5 +1,9 @@
 p{
 	color:white;
+	font-style: Verdana;
+	background-color: grey;
+	border:solid white 2px;
+
 }
 
 
@@ -12,6 +16,7 @@ p{
 body {
 	background-color: #8E8B91 
 }
+
 h1 {
 	font-style: Verdana;
 	color:silver;
@@ -48,4 +53,37 @@ h1 {
 	background-color: black;
 	padding:10px;
 	float:right;
+}
+
+#jimmy {
+	background-image: url("community.jpg");
+	width:700px;
+	height:500px;
+	float:left;
+}
+#indexh1 {
+	color:white;
+	font-style: Verdana;
+	border:solid white 2px;
+	display:inline-block;
+	background-color: grey;
+	float:right;
+}
+#wrapper {
+	width:500px;
+	float:right;
+}
+#linksindex {
+	border:solid white 2px;
+	color: grey;
+	float:right;
+	text-align: center;
+	padding:10px;
+	background-color: black;
+}
+#donatebutton {
+	background-image: url(donate.jpg);
+	width:200px;
+	height:50px;
+	text-indent: -9999px;
 }
