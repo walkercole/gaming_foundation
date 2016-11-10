@@ -1,6 +1,52 @@
-p {
+p{
 	color:white;
+	text-align:center;
+}
+
+
+#dsoulsp {
+	color:white;
+	text-align:center;
+	padding:2px; 
+	padding-right: 90px;
 }
 body {
 	background-color: #8E8B91 
+}
+h1 {
+	font-style: Verdana;
+	color:silver;
+	text-align:center;
+}
+#mimic {
+	float:left;
+	width:25%;
+	height:50%;
+	position:relative;
+}
+#wallmonster {
+	background-image: url("Dwallmonster.jpg");
+	width:400px;
+	height:200px;
+	float:right;
+}
+#dshome {
+	color:silver;
+	font-size:29px;
+}
+#dsbiography {
+	color:silver;
+	font-size: 29px;
+}
+#dscommunity {
+	color:silver;
+	font-size: 29px;
+}
+#nav {
+	border:solid white 2px;
+	display:inline-block;
+	text-align: center;
+	background-color: black;
+	padding:10px;
+	float:right;
 }
